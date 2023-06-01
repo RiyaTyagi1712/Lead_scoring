@@ -1,4 +1,5 @@
 "# Lead_scoring" 
+
 X Education needs a machine learning model which will increase their lead conversion beyond 80%. To solve this problem logistic regression model is developed which predicts a lead conversions and also assigns a lead score to each Lead to determine the probability of it's conversion.
 
 ## The steps followed in developing this model is as follows:-
